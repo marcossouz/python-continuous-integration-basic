@@ -4,9 +4,10 @@ When writing code on your own, the only priority is making it work. However, wor
 
 How do professional teams make dozens of changes per day while making sure everyone is coordinated and nothing is broken? Enter continuous integration!
 
-### References
 
-- https://realpython.com/python-continuous-integration/
+### Snapshots
+
+![](https://i.imgur.com/Yru3G0k.png)
 
 
 ### Table of Contents
@@ -24,7 +25,7 @@ How do professional teams make dozens of changes per day while making sure every
     - [x] 4.2 Create a Repo
     - [x] 4.3 Set Up a Working Environment
     - [x] 4.4 Write a Simple Python Example
-    - [ ] 4.5 Write Unit Tests
+    - [x] 4.5 Write Unit Tests
     - [ ] 4.6 Connect to CircleCI
     - [ ] 4.7 Make Changes
     - [ ] 4.8 Notifications
@@ -37,3 +38,8 @@ How do professional teams make dozens of changes per day while making sure every
     - [ ] 5.1 Continuous Deployment
 - [ ] 6. Overview of Continuous Integration Services
 - [ ] 7. Conclusion
+
+
+### References
+
+- https://realpython.com/python-continuous-integration/
