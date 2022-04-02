@@ -1,8 +1,8 @@
-# python-continuous-integration-basic
+# Continuous Integration With Python: An Introduction
 
+When writing code on your own, the only priority is making it work. However, working in a team of professional software developers brings a plethora of challenges. One of those challenges is coordinating many people working on the same code.
 
-Continuous Integration With Python: An Introduction
-
+How do professional teams make dozens of changes per day while making sure everyone is coordinated and nothing is broken? Enter continuous integration!
 
 ### References
 
