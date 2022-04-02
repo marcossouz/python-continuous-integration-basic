@@ -47,9 +47,9 @@ How do professional teams make dozens of changes per day while making sure every
     - [x] 5.1 Git Workflows
     - [x] 5.2 Dependency Management and Virtual Environments
     - [x] 5.3 Testing
-    - [ ] 5.4 Packaging
-    - [ ] 5.5 Continuous Integration
-    - [ ] 5.6 Continuous Deployment
+    - [x] 5.4 Packaging
+    - [x] 5.5 Continuous Integration
+    - [x] 5.6 Continuous Deployment
 - [x] 6. Overview of Continuous Integration Services
 - [x] 7. Conclusion
 
