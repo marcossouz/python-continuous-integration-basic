@@ -16,6 +16,6 @@ def multiply(first_term, second_term):
 
 
 def divide(first_term, second_term):
-    if second_term != 0:
+    if second_term != 0: # preventing division by zero
         return first_term / second_term
     return 0
