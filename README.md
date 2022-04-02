@@ -7,7 +7,12 @@ How do professional teams make dozens of changes per day while making sure every
 
 ### Snapshots
 
+#### Tests
 ![](https://i.imgur.com/Yru3G0k.png)
+
+#### Lint Errors
+![](https://i.imgur.com/2haZvm7.png)
+
 
 
 ### Table of Contents
