@@ -26,7 +26,11 @@ How do professional teams make dozens of changes per day while making sure every
     - [x] 4.3 Set Up a Working Environment
     - [x] 4.4 Write a Simple Python Example
     - [x] 4.5 Write Unit Tests
-    - [ ] 4.6 Connect to CircleCI
+    - [x] 4.6 Connect to CircleCI
+        > Our pipeline is very simple and consists of 3 steps:
+        > - Checking out the repository
+        > - Installing the dependencies in a virtual environment
+        > - Running the linter and tests while inside the virtual environment
     - [ ] 4.7 Make Changes
     - [ ] 4.8 Notifications
 - [ ] 5. Next Steps
