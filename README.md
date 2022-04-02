@@ -41,17 +41,17 @@ How do professional teams make dozens of changes per day while making sure every
         > - Checking out the repository
         > - Installing the dependencies in a virtual environment
         > - Running the linter and tests while inside the virtual environment
-    - [ ] 4.7 Make Changes
-    - [ ] 4.8 Notifications
-- [ ] 5. Next Steps
-    - [ ] 5.1 Git Workflows
-    - [ ] 5.1 Dependency Management and Virtual Environments
-    - [ ] 5.1 Testing
-    - [ ] 5.1 Packaging
-    - [ ] 5.1 Continuous Integration
-    - [ ] 5.1 Continuous Deployment
-- [ ] 6. Overview of Continuous Integration Services
-- [ ] 7. Conclusion
+    - [x] 4.7 Make Changes
+    - [x] 4.8 Notifications
+- [x] 5. Next Steps
+    - [x] 5.1 Git Workflows
+    - [x] 5.2 Dependency Management and Virtual Environments
+    - [x] 5.3 Testing
+    - [ ] 5.4 Packaging
+    - [ ] 5.5 Continuous Integration
+    - [ ] 5.6 Continuous Deployment
+- [x] 6. Overview of Continuous Integration Services
+- [x] 7. Conclusion
 
 
 ### References
