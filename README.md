@@ -13,6 +13,11 @@ How do professional teams make dozens of changes per day while making sure every
 #### Lint Errors
 ![](https://i.imgur.com/2haZvm7.png)
 
+#### Fix Lint Erros
+![](https://i.imgur.com/hF2GRJj.png)
+
+#### Run Tests CircleCI
+![](https://i.imgur.com/kavbS7c.png)
 
 
 ### Table of Contents
